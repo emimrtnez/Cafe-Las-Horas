@@ -1,0 +1,15 @@
+h1.titulo{
+    color: brown;
+    position: relative;
+    left: 43%;
+}
+
+p.centrado{
+    position: relative;
+    left: 41%;
+}
+
+p.derecha{
+    position: relative;
+    left: 75%;
+}

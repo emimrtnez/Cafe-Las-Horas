@@ -1,0 +1,17 @@
+h1.titulo{
+    color: brown;
+    position: relative;
+    left: 43%;
+}
+
+p.cuerpo{
+    color: brown;
+    font-size: 135%;
+    position: relative;
+    left: 41%;
+}
+
+p.imagen{
+    position: relative;
+    left: 33%;
+}
